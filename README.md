@@ -146,3 +146,33 @@ dubai-rental-market-analysis/
    Distance to Burj Khalifa showed a negligible negative correlation
    (r=-0.040), and Metro distance showed almost no linear relationship
    (r=0.048) — consistent with Dubai's car-centric premium market geography.
+
+   
+## How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/biancakhambatta/Dubai-Rental-Market-Analysis.git
+```
+
+2. Download the dataset from Kaggle:
+[Dubai Real Estate: Sales, Off-Plan & Rentals 2020 to 2026](https://www.kaggle.com/datasets/sergionefedov/dubai-real-estate-sales-and-rentals-20202026)
+
+3. Place the downloaded CSV files in a folder called `dataraw` inside the project folder
+
+4. Install the required libraries:
+```bash
+pip install pandas numpy matplotlib seaborn scipy
+```
+
+5. Open the notebook:
+```bash
+jupyter notebook rental_analysis.ipynb
+```
+
+---
+
+## About
+
+Built by **Bianca Khambatta** — Data Analyst based in Dubai, UAE.
+[LinkedIn](https://www.linkedin.com/in/bianca-khambatta-4b8a37400) · [GitHub](https://github.com/biancakhambatta)
