@@ -58,11 +58,11 @@ reflect real market dynamics.
 
 | File | Rows | Description |
 |---|---|---|
-| `rentals.csv` | 25,000 | Annual rental contracts — primary analysis file |
+| `rentals.csv` | 25,000 | Annual rental contracts: primary analysis file |
 | `area_prices_monthly.csv` | 6,384 | Monthly time series: 84 communities × 76 months |
-| `secondary_sales.csv` | 50,000 | Secondary market sales — used for K-shaped recovery comparison |
+| `secondary_sales.csv` | 50,000 | Secondary market sales: used for K-shaped recovery comparison |
 | `metro_stations.csv` | 55 | Dubai Metro stations (Red + Green Line) with coordinates |
-| `off_plan.csv` | 12,000 | Off-plan listings — used for market context |
+| `off_plan.csv` | 12,000 | Off-plan listings: used for market context |
 
 ---
 
